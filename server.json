@@ -1,0 +1,504 @@
+{
+  "tags": [
+    {
+      "id": "1",
+      "title": "React",
+      "amountOfVideos": 134
+    },
+    {
+      "id": "2",
+      "title": "JavaScript",
+      "amountOfVideos": 210
+    },
+    {
+      "id": "3",
+      "title": "Python",
+      "amountOfVideos": 175
+    },
+    {
+      "id": "4",
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "id": "5",
+      "title": "HTML",
+      "amountOfVideos": 150
+    },
+    {
+      "id": "6",
+      "title": "CSS",
+      "amountOfVideos": 120
+    },
+    {
+      "id": "7",
+      "title": "Vue.js",
+      "amountOfVideos": 80
+    },
+    {
+      "id": "8",
+      "title": "Angular",
+      "amountOfVideos": 95
+    },
+    {
+      "id": "9",
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "id": "10",
+      "title": "C++",
+      "amountOfVideos": 110
+    },
+    {
+      "id": "11",
+      "title": "C#",
+      "amountOfVideos": 100
+    },
+    {
+      "id": "12",
+      "title": "Swift",
+      "amountOfVideos": 70
+    },
+    {
+      "id": "13",
+      "title": "Kotlin",
+      "amountOfVideos": 65
+    },
+    {
+      "id": "14",
+      "title": "Ruby",
+      "amountOfVideos": 55
+    },
+    {
+      "id": "15",
+      "title": "PHP",
+      "amountOfVideos": 95
+    },
+    {
+      "id": "16",
+      "title": "Django",
+      "amountOfVideos": 45
+    },
+    {
+      "id": "17",
+      "title": "Flask",
+      "amountOfVideos": 40
+    },
+    {
+      "id": "18",
+      "title": "Express.js",
+      "amountOfVideos": 55
+    },
+    {
+      "id": "19",
+      "title": "Spring Boot",
+      "amountOfVideos": 75
+    },
+    {
+      "id": "20",
+      "title": "Laravel",
+      "amountOfVideos": 80
+    },
+    {
+      "id": "21",
+      "title": "MongoDB",
+      "amountOfVideos": 65
+    },
+    {
+      "id": "22",
+      "title": "MySQL",
+      "amountOfVideos": 90
+    },
+    {
+      "id": "23",
+      "title": "PostgreSQL",
+      "amountOfVideos": 70
+    },
+    {
+      "id": "24",
+      "title": "SQLite",
+      "amountOfVideos": 40
+    },
+    {
+      "id": "25",
+      "title": "Firebase",
+      "amountOfVideos": 60
+    },
+    {
+      "id": "26",
+      "title": "AWS",
+      "amountOfVideos": 85
+    },
+    {
+      "id": "27",
+      "title": "Azure",
+      "amountOfVideos": 75
+    },
+    {
+      "id": "28",
+      "title": "Google Cloud",
+      "amountOfVideos": 80
+    },
+    {
+      "id": "29",
+      "title": "Docker",
+      "amountOfVideos": 95
+    },
+    {
+      "id": "30",
+      "title": "Kubernetes",
+      "amountOfVideos": 90
+    },
+    {
+      "id": "31",
+      "title": "Git",
+      "amountOfVideos": 140
+    },
+    {
+      "id": "32",
+      "title": "GitHub",
+      "amountOfVideos": 120
+    },
+    {
+      "id": "33",
+      "title": "Bitbucket",
+      "amountOfVideos": 60
+    },
+    {
+      "id": "34",
+      "title": "Jenkins",
+      "amountOfVideos": 50
+    },
+    {
+      "id": "35",
+      "title": "Travis CI",
+      "amountOfVideos": 45
+    },
+    {
+      "id": "36",
+      "title": "CircleCI",
+      "amountOfVideos": 40
+    },
+    {
+      "id": "37",
+      "title": "Jira",
+      "amountOfVideos": 55
+    },
+    {
+      "id": "38",
+      "title": "Confluence",
+      "amountOfVideos": 30
+    },
+    {
+      "id": "39",
+      "title": "Slack",
+      "amountOfVideos": 80
+    },
+    {
+      "id": "40",
+      "title": "Microsoft Teams",
+      "amountOfVideos": 70
+    },
+    {
+      "id": "41",
+      "title": "Zoom",
+      "amountOfVideos": 65
+    },
+    {
+      "id": "42",
+      "title": "Google Meet",
+      "amountOfVideos": 60
+    },
+    {
+      "id": "43",
+      "title": "Skype",
+      "amountOfVideos": 50
+    },
+    {
+      "id": "44",
+      "title": "Discord",
+      "amountOfVideos": 85
+    },
+    {
+      "id": "45",
+      "title": "Trello",
+      "amountOfVideos": 40
+    },
+    {
+      "id": "46",
+      "title": "Asana",
+      "amountOfVideos": 35
+    },
+    {
+      "id": "47",
+      "title": "Monday.com",
+      "amountOfVideos": 30
+    },
+    {
+      "id": "48",
+      "title": "Notion",
+      "amountOfVideos": 45
+    },
+    {
+      "id": "49",
+      "title": "Evernote",
+      "amountOfVideos": 40
+    },
+    {
+      "id": "50",
+      "title": "OneNote",
+      "amountOfVideos": 35
+    },
+    {
+      "id": "51",
+      "title": "Todoist",
+      "amountOfVideos": 30
+    },
+    {
+      "id": "52",
+      "title": "Wunderlist",
+      "amountOfVideos": 25
+    },
+    {
+      "id": "53",
+      "title": "Google Tasks",
+      "amountOfVideos": 20
+    },
+    {
+      "id": "54",
+      "title": "Microsoft To Do",
+      "amountOfVideos": 15
+    },
+    {
+      "id": "55",
+      "title": "TickTick",
+      "amountOfVideos": 25
+    },
+    {
+      "id": "56",
+      "title": "Habitica",
+      "amountOfVideos": 20
+    },
+    {
+      "id": "57",
+      "title": "Forest",
+      "amountOfVideos": 15
+    },
+    {
+      "id": "58",
+      "title": "Focus@Will",
+      "amountOfVideos": 10
+    },
+    {
+      "id": "59",
+      "title": "RescueTime",
+      "amountOfVideos": 20
+    },
+    {
+      "id": "60",
+      "title": "Cold Turkey",
+      "amountOfVideos": 15
+    },
+    {
+      "id": "61",
+      "title": "StayFocusd",
+      "amountOfVideos": 10
+    },
+    {
+      "id": "62",
+      "title": "Freedom",
+      "amountOfVideos": 5
+    },
+    {
+      "id": "63",
+      "title": "Serene",
+      "amountOfVideos": 10
+    },
+    {
+      "id": "64",
+      "title": "Mindfulness",
+      "amountOfVideos": 20
+    },
+    {
+      "id": "65",
+      "title": "Meditation",
+      "amountOfVideos": 30
+    },
+    {
+      "id": "66",
+      "title": "Yoga",
+      "amountOfVideos": 40
+    },
+    {
+      "id": "67",
+      "title": "Pilates",
+      "amountOfVideos": 25
+    },
+    {
+      "id": "68",
+      "title": "Running",
+      "amountOfVideos": 35
+    },
+    {
+      "id": "69",
+      "title": "Cycling",
+      "amountOfVideos": 30
+    },
+    {
+      "id": "70",
+      "title": "Swimming",
+      "amountOfVideos": 25
+    },
+    {
+      "id": "71",
+      "title": "Hiking",
+      "amountOfVideos": 20
+    },
+    {
+      "id": "72",
+      "title": "Gym",
+      "amountOfVideos": 15
+    },
+    {
+      "id": "73",
+      "title": "Piano",
+      "amountOfVideos": 30
+    },
+    {
+      "id": "74",
+      "title": "Guitar",
+      "amountOfVideos": 40
+    },
+    {
+      "id": "75",
+      "title": "Violin",
+      "amountOfVideos": 35
+    },
+    {
+      "id": "76",
+      "title": "Drums",
+      "amountOfVideos": 25
+    },
+    {
+      "id": "77",
+      "title": "Saxophone",
+      "amountOfVideos": 20
+    },
+    {
+      "id": "78",
+      "title": "Flute",
+      "amountOfVideos": 15
+    },
+    {
+      "id": "79",
+      "title": "Trumpet",
+      "amountOfVideos": 20
+    },
+    {
+      "id": "80",
+      "title": "Clarinet",
+      "amountOfVideos": 25
+    },
+    {
+      "id": "81",
+      "title": "Cello",
+      "amountOfVideos": 30
+    },
+    {
+      "id": "82",
+      "title": "Double Bass",
+      "amountOfVideos": 35
+    },
+    {
+      "id": "83",
+      "title": "Viola",
+      "amountOfVideos": 40
+    },
+    {
+      "id": "84",
+      "title": "Harp",
+      "amountOfVideos": 25
+    },
+    {
+      "id": "85",
+      "title": "Xylophone",
+      "amountOfVideos": 20
+    },
+    {
+      "id": "86",
+      "title": "Accordion",
+      "amountOfVideos": 15
+    },
+    {
+      "id": "87",
+      "title": "Triangle",
+      "amountOfVideos": 20
+    },
+    {
+      "id": "88",
+      "title": "Banjo",
+      "amountOfVideos": 25
+    },
+    {
+      "id": "89",
+      "title": "Mandolin",
+      "amountOfVideos": 30
+    },
+    {
+      "id": "90",
+      "title": "Ukulele",
+      "amountOfVideos": 35
+    },
+    {
+      "id": "91",
+      "title": "Zither",
+      "amountOfVideos": 40
+    },
+    {
+      "id": "92",
+      "title": "Sitar",
+      "amountOfVideos": 25
+    },
+    {
+      "id": "93",
+      "title": "Balalaika",
+      "amountOfVideos": 20
+    },
+    {
+      "id": "94",
+      "title": "Duduk",
+      "amountOfVideos": 15
+    },
+    {
+      "id": "95",
+      "title": "Bagpipes",
+      "amountOfVideos": 20
+    },
+    {
+      "id": "96",
+      "title": "Didgeridoo",
+      "amountOfVideos": 25
+    },
+    {
+      "id": "97",
+      "title": "Erhu",
+      "amountOfVideos": 30
+    },
+    {
+      "id": "98",
+      "title": "Koto",
+      "amountOfVideos": 35
+    },
+    {
+      "id": "99",
+      "title": "Theremin",
+      "amountOfVideos": 40
+    },
+    {
+      "id": "100",
+      "title": "Ocarina",
+      "amountOfVideos": 25
+    }
+  ]
+}
